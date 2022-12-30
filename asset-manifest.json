@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.js": "/YusifGhonimDev/product-preview/static/js/main.15eb9afd.js",
-    "static/media/product.jpg": "/YusifGhonimDev/product-preview/static/media/product.c96d43af17111fe78e96.jpg",
-    "index.html": "/YusifGhonimDev/product-preview/index.html",
-    "main.15eb9afd.js.map": "/YusifGhonimDev/product-preview/static/js/main.15eb9afd.js.map"
+    "main.js": "/YusifGhonimDev.github.io/product-preview/static/js/main.d5168240.js",
+    "static/media/product.jpg": "/YusifGhonimDev.github.io/product-preview/static/media/product.c96d43af17111fe78e96.jpg",
+    "index.html": "/YusifGhonimDev.github.io/product-preview/index.html",
+    "static/media/icon-cart.svg": "/YusifGhonimDev.github.io/product-preview/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.d5168240.js.map": "/YusifGhonimDev.github.io/product-preview/static/js/main.d5168240.js.map"
   },
   "entrypoints": [
-    "static/js/main.15eb9afd.js"
+    "static/js/main.d5168240.js"
   ]
 }
