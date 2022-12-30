@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/YusifGhonimDev.github.io/product-preview/static/js/main.d5168240.js",
-    "static/media/product.jpg": "/YusifGhonimDev.github.io/product-preview/static/media/product.c96d43af17111fe78e96.jpg",
-    "index.html": "/YusifGhonimDev.github.io/product-preview/index.html",
-    "static/media/icon-cart.svg": "/YusifGhonimDev.github.io/product-preview/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
-    "main.d5168240.js.map": "/YusifGhonimDev.github.io/product-preview/static/js/main.d5168240.js.map"
+    "main.js": "/yusifghonimdev.github.io/product-preview/static/js/main.7b94c019.js",
+    "static/media/product.jpg": "/yusifghonimdev.github.io/product-preview/static/media/product.c96d43af17111fe78e96.jpg",
+    "index.html": "/yusifghonimdev.github.io/product-preview/index.html",
+    "static/media/icon-cart.svg": "/yusifghonimdev.github.io/product-preview/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.7b94c019.js.map": "/yusifghonimdev.github.io/product-preview/static/js/main.7b94c019.js.map"
   },
   "entrypoints": [
-    "static/js/main.d5168240.js"
+    "static/js/main.7b94c019.js"
   ]
 }
